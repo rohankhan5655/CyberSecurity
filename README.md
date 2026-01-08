@@ -1,17 +1,14 @@
-# 🛡️ Cybersecurity_Offensive_Tools
+# CyberSecurity Portfolio
 
-Welcome to the **Cybersecurity Offensive Tools** repository!  
-This repo is a personal collection of offensive security tools created, customized, and tested by **Muhamad Rohan Khan** as part of his ethical hacking and red teaming journey. 🕵️‍♂️💻
+Welcome to my **CyberSecurity** repository 👋
 
----
+This repository is a collection of my hands-on work in cybersecurity, including:
 
-## 📚 About This Repository
+* 🧪 Custom scripts built for **CTFs**
+* 🐞 **Security research** and vulnerability analysis
+* 🔍 Notes on exploitation techniques, misconfigurations, and defenses
 
-This repository contains **custom tools**, **exploitation scripts**, and **automated payloads** built for **red teaming**, **penetration testing**, and **CTF competitions**.
-
-These tools are either:
-- Written from scratch 🧠
-- Modified from existing tools 🧰
-- Combined to form new custom utilities 🔗
+The goal of this repo is learning, sharing knowledge, and documenting my growth as a security researcher.
 
 ---
+
