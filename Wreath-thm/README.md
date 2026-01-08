@@ -32,7 +32,6 @@ I have created a **complete PDF write-up** that documents every step, including:
 - 🔁 Lateral Movement across the network
 - 🧑‍💼 Privilege Escalation on Thomas’s PC
 - 📦 Data Collection
-- 
 ---
 
 ## 👤 Author
